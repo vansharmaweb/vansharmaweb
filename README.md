@@ -23,8 +23,9 @@
 
 ### 📊 GitHub Stats
 
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VANSH-SHARMA-web&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VANSH-SHARMA-web&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=VANSH-SHARMA-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Vansh's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANSH-SHARMA-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" />
 
 ---
 
