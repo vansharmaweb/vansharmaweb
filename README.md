@@ -25,7 +25,7 @@
 
 ![Vansh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VANSH-SHARMA-web&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VANSH-SHARMA-web&layout=compact&theme=dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=VANSH-SHARMA-web&color=blue&style=flat)
 
 ---
 
