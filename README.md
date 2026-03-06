@@ -5,7 +5,7 @@
 - 🔭 Currently building → My portfolio website & grinding DSA
 - 🌱 Currently learning → C++, Python, SQL, and diving deeper into Web Dev
 - 💡 Fun fact → I started coding and now I can't stop breaking things (and fixing them)
-- 🎯 2025 goal → Contribute to open source & build 10 real projects
+- 🎯 2026 goal → Contribute to open source & build 10 real projects
 - ⚡ I believe → *Consistency beats talent when talent doesn't show up*
 - 📫 Reach me at → vanshsharmaweb@gmail.com | www.linkedin.com/in/vansharmaweb
 
