@@ -33,7 +33,7 @@
 
 | 🗂️ Project | 📝 About & Features |
 |---|---|
-| **[🌐 Portfolio Website Generator](https://prtfoliogen.vanshonweb.workers.dev/)** | A production-ready developer tool to seamlessly design and deploy stunning personal portfolios. Features secure one-click GitHub Pages deployment and Markdown README exports. |
+| **[🌐 Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | A production-ready developer tool to seamlessly design and deploy stunning personal portfolios. Features secure one-click GitHub Pages deployment and Markdown README exports. |
 | **[💸 Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | A fintech-inspired, mobile-first SPA tailored for students. Includes intelligent budget allocation, real-time financial health scoring, and a sleek light/dark mode UI. |
 | **[🛠️ UtilityX](https://utilityx.pages.dev/)** | A dynamic platform for streamlined application management. Features a customizable pinned apps dashboard and admin-promoted utilities for enhanced discoverability. |
 | **[💼 Vansh's Portfolio](https://vansh-sharma-web.github.io)** | My personal corner of the internet. |
