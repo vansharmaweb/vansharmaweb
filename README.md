@@ -1,59 +1,101 @@
-<h1 align="center">Hey, I'm Vansh Sharma 👨‍💻</h1>
+<div align="center">
 
-<p align="center">
-  <em>"First-year B.Tech student by day, debugging at 2AM by night."</em>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vansh+Sharma+%F0%9F%91%8B;B.Tech+CSE+%40+PSIT+Kanpur;First+year+by+day%2C+debugging+at+2AM;Building+real+things+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vansharmaweb&color=58a6ff&style=flat-square&label=profile+views" />
+  <img src="https://img.shields.io/github/followers/vansharmaweb?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VANSH-SHARMA-web&color=blue&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## `$ whoami`
 
-- 🔭 **Currently building** → My personal portfolio website & grinding DSA
-- 🌱 **Currently learning** → C++, Python, SQL, and diving deeper into modern Web Dev
-- 💡 **Fun fact** → I started coding and now I can't stop breaking things (and fixing them!)
-- 🎯 **2026 goal** → Contribute to open source & build 10 real-world projects
-- ⚡ **I believe** → *Consistency beats talent when talent doesn't show up*
-- 📫 **Reach me at** → [vanshsharmaweb@gmail.com](mailto:vanshsharmaweb@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vansharmaweb)
+```python
+vansh = {
+    "name"      : "Vansh Sharma",
+    "college"   : "PSIT Kanpur · AKTU · B.Tech CSE",
+    "year"      : "1st Year",
+    "cgpa"      : 8.8,
+    "building"  : ["Portfolio tools", "Expense trackers", "CampusConfessions", "DSA grind"],
+    "learning"  : ["C++", "Python", "SQL", "Modern Web Dev"],
+    "goal_2026" : "10 real-world projects shipped + first open source PR",
+    "belief"    : "Consistency beats talent when talent doesn't show up.",
+}
+```
 
 ---
 
-### 🚀 Featured & New Projects
+## 🚀 projects
 
-| 🗂️ Project | 📝 About & Features |
+| Project | What it does |
 |---|---|
-| **[🌐 Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | A production-ready developer tool to seamlessly design and deploy stunning personal portfolios. Features secure one-click GitHub Pages deployment and Markdown README exports. |
-| **[💸 Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | A fintech-inspired, mobile-first SPA tailored for students. Includes intelligent budget allocation, real-time financial health scoring, and a sleek light/dark mode UI. |
-| **[🛠️ UtilityX](https://utilityx.pages.dev/)** | A dynamic platform for streamlined application management. Features a customizable pinned apps dashboard and admin-promoted utilities for enhanced discoverability. |
-| **[💼 Vansh's Portfolio](https://vansharmaweb.github.io)** | My personal corner of the internet. |
-| **[⚡ CPP Questions](https://github.com/VANSH-SHARMA-web/CPP_Questions)** | My C++ grind — arrays, OOP, and beyond. |
-| **[🐍 HackerRank Python](https://github.com/VANSH-SHARMA-web/HACKERRANK_Ques_Python)** | My Python problem-solving playground on HackerRank. |
-
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/VANSH-SHARMA-web">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=tokyonight&hide_border=true" alt="Vansh's GitHub stats" />
-  </a>
-</p>
+| 🌐 **[Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | Build & deploy stunning dev portfolios — one-click GitHub Pages deploy + Markdown export |
+| 💸 **[Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | Fintech-inspired SPA for students — budget scoring, real-time health meter, dark mode |
+| 🛠️ **[UtilityX](https://utilityx.pages.dev/)** | Pinned app dashboard + admin-promoted utilities — your own mini app store |
+| 🙊 **[CampusConfessions](https://campusconfessions.in)** | Anonymous college confession platform — voice notes, AI moderation, polls, PWA |
+| 💼 **[Portfolio](https://vansharmaweb.github.io)** | My personal corner of the internet |
+| ⚡ **[CPP Questions](https://github.com/vansharmaweb/CPP_Questions)** | C++ grind — arrays, OOP, and beyond |
+| 🐍 **[HackerRank Python](https://github.com/vansharmaweb/HACKERRANK_Ques_Python)** | Python problem-solving playground |
 
 ---
 
-<p align="center">
-  <em>⭐ If you like what you see, feel free to drop a star on a repo — it means a lot!</em>
-</p>
+## 📊 github stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vansharmaweb&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vansharmaweb&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🛠️ tech stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d1117?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📫 reach me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/vanshsharmaweb@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vanshsharmaweb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansharmaweb)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vansharmaweb.github.io)
+
+</div>
+
+---
+
+<div align="center">
+  <em>⭐ If something here sparked interest, a star on a repo means a lot — it keeps the 2AM sessions worth it.</em>
+</div>
