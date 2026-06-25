@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vansh+Sharma+%F0%9F%91%8B;B.Tech+CSE+%40+PSIT+Kanpur;First+year+by+day%2C+debugging+at+2AM;Building+real+things+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Vansh+Sharma+%F0%9F%91%8B;B.Tech+CSE+%40+PSIT+Kanpur;Building+real+things+that+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vansharmaweb&color=58a6ff&style=flat-square&label=profile+views" />
@@ -17,11 +17,10 @@
 vansh = {
     "name"      : "Vansh Sharma",
     "college"   : "PSIT Kanpur · AKTU · B.Tech CSE",
-    "year"      : "1st Year",
+    "year"      : "2nd Year",
     "cgpa"      : 8.8,
-    "building"  : ["Portfolio tools", "Expense trackers", "CampusConfessions", "DSA grind"],
+    "building"  : ["Portfolio tools", "Expense trackers", "DSA grind"],
     "learning"  : ["C++", "Python", "SQL", "Modern Web Dev"],
-    "goal_2026" : "10 real-world projects shipped + first open source PR",
     "belief"    : "Consistency beats talent when talent doesn't show up.",
 }
 ```
@@ -35,7 +34,6 @@ vansh = {
 | 🌐 **[Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | Build & deploy stunning dev portfolios — one-click GitHub Pages deploy + Markdown export |
 | 💸 **[Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | Fintech-inspired SPA for students — budget scoring, real-time health meter, dark mode |
 | 🛠️ **[UtilityX](https://utilityx.pages.dev/)** | Pinned app dashboard + admin-promoted utilities — your own mini app store |
-| 🙊 **[CampusConfessions](https://campusconfessions.in)** | Anonymous college confession platform — voice notes, AI moderation, polls, PWA |
 | 💼 **[Portfolio](https://vansharmaweb.github.io)** | My personal corner of the internet |
 | ⚡ **[CPP Questions](https://github.com/vansharmaweb/CPP_Questions)** | C++ grind — arrays, OOP, and beyond |
 | 🐍 **[HackerRank Python](https://github.com/vansharmaweb/HACKERRANK_Ques_Python)** | Python problem-solving playground |
