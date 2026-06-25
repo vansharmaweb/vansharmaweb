@@ -36,7 +36,7 @@
 | **[🌐 Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | A production-ready developer tool to seamlessly design and deploy stunning personal portfolios. Features secure one-click GitHub Pages deployment and Markdown README exports. |
 | **[💸 Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | A fintech-inspired, mobile-first SPA tailored for students. Includes intelligent budget allocation, real-time financial health scoring, and a sleek light/dark mode UI. |
 | **[🛠️ UtilityX](https://utilityx.pages.dev/)** | A dynamic platform for streamlined application management. Features a customizable pinned apps dashboard and admin-promoted utilities for enhanced discoverability. |
-| **[💼 Vansh's Portfolio](https://vansh-sharma-web.github.io)** | My personal corner of the internet. |
+| **[💼 Vansh's Portfolio](https://vansharmaweb.github.io)** | My personal corner of the internet. |
 | **[⚡ CPP Questions](https://github.com/VANSH-SHARMA-web/CPP_Questions)** | My C++ grind — arrays, OOP, and beyond. |
 | **[🐍 HackerRank Python](https://github.com/VANSH-SHARMA-web/HACKERRANK_Ques_Python)** | My Python problem-solving playground on HackerRank. |
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/VANSH-SHARMA-web">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANSH-SHARMA-web&theme=tokyonight&hide_border=true" alt="Vansh's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=tokyonight&hide_border=true" alt="Vansh's GitHub stats" />
   </a>
 </p>
 
