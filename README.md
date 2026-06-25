@@ -31,9 +31,9 @@ vansh = {
 
 | Project | What it does |
 |---|---|
-| 🌐 **[Portfolio Website Generator](https://portfoliogen.vanshonweb.workers.dev/)** | Build & deploy stunning dev portfolios — one-click GitHub Pages deploy + Markdown export |
-| 💸 **[Student Expense Tracker](https://expensetracker.vanshonweb.workers.dev/)** | Fintech-inspired SPA for students — budget scoring, real-time health meter, dark mode |
-| 🛠️ **[UtilityX](https://utilityx.pages.dev/)** | Pinned app dashboard + admin-promoted utilities — your own mini app store |
+| 🌐 **[Portfolio Website Generator](https://portgen.vanshonweb.workers.dev/)** | Build & deploy stunning dev portfolios — one-click GitHub Pages deploy + Markdown export |
+| 💸 **[Student Expense Tracker](https://exptracker.vanshonweb.workers.dev/)** | Fintech-inspired SPA for students — budget scoring, real-time health meter, dark mode |
+| 🛠️ **[UtilityX](https://utilityx.vanshonweb.workers.dev/)** | Pinned app dashboard + admin-promoted utilities — your own mini app store |
 | 💼 **[Portfolio](https://vansharmaweb.github.io)** | My personal corner of the internet |
 | ⚡ **[CPP Questions](https://github.com/vansharmaweb/CPP_Questions)** | C++ grind — arrays, OOP, and beyond |
 | 🐍 **[HackerRank Python](https://github.com/vansharmaweb/HACKERRANK_Ques_Python)** | Python problem-solving playground |
