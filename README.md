@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=vansharmaweb&color=58a6ff&style=flat-square&label=profile+views" />
-  <img src="https://img.shields.io/github/followers/vansharmaweb?&color=58a6ff&labelColor=0d1117&label=followers" />
+  <img src="https://img.shields.io/github/followers/vansharmaweb?&color=58a6ff&style=flat-square&label=followers" />
 </p>
 
 </div>
