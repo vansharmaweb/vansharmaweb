@@ -11,7 +11,7 @@
 
 ---
 
-## `$ whoami`
+## $ whoami
 
 ```python
 vansh = {
