@@ -31,8 +31,6 @@ vansh = {
 
 | Project | What it does |
 |---|---|
-| 🕵️ **[CampusConfessions](https://campusconfessions.in)** | Anonymous college social platform — real-time chat & confessions via Flask, Supabase, Firebase FCM, and Socket.IO |
-| 🎮 **[GitGrind](https://github.com/vansharmaweb)** | Chrome extension (Manifest V3) that gamifies the LeetCode → GitHub workflow using the GitHub REST API, OAuth, and Gemini |
 | 🌐 **[Portfolio Website Generator](https://portgen.gitignored.workers.dev/)** | Build & deploy stunning dev portfolios — one-click GitHub Pages deploy + Markdown export |
 | 💸 **[Student Expense Tracker](https://exptracker.vanshonweb.workers.dev/)** | Fintech-inspired SPA for students — budget scoring, real-time health meter, dark mode |
 | 🛠️ **[UtilityX](https://utilityx.vanshonweb.workers.dev/)** | Pinned app dashboard + admin-promoted utilities — your own mini app store |
@@ -71,8 +69,6 @@ vansh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansharmaweb&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph"/>
 
 </div>
-
-> **Note:** these cards are served by public, shared instances of open-source tools (`github-readme-stats`, `streak-stats`, `github-readme-activity-graph`). They occasionally show a "failed to fetch" error during high-traffic windows — that's an upstream rate limit, not a broken profile. If it keeps happening, self-hosting your own instance (free on Vercel with a personal access token) makes it permanently reliable.
 
 ---
 
