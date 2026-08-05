@@ -18,7 +18,7 @@ vansh = {
     "name"      : "Vansh Sharma",
     "college"   : "PSIT Kanpur · AKTU · B.Tech CSE",
     "year"      : "2nd Year",
-    "cgpa"      : 8.8,
+    "cgpa"      : 8.86,
     "building"  : ["Portfolio tools", "Expense trackers", "DSA grind"],
     "learning"  : ["C++", "Python", "SQL", "Modern Web Dev"],
     "belief"    : "Consistency beats talent when talent doesn't show up.",
@@ -56,11 +56,21 @@ vansh = {
 
 </div>
 
-<div align="center">
+<!--
+NOTE ON THE ACTIVITY GRAPH:
+The old <img src="github-readme-activity-graph.vercel.app/graph?..."> line is removed below
+because that demo server intermittently fails with "Failed to retrieve contributions" —
+it's a shared free instance that gets rate-limited by GitHub's API, not an issue with your
+account or username. Two fixes, pick one:
 
+OPTION A (quick, same reliability as before): just re-add this line, it usually recovers
+on its own within a few hours:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vansharmaweb&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph"/>
 
-</div>
+OPTION B (permanent fix, recommended): generate the graph yourself via a GitHub Action
+that commits an SVG into your profile repo on a schedule. It never depends on a third-party
+server being up. Workflow + embed snippet given below the tech stack section.
+-->
 
 ---
 
@@ -82,6 +92,56 @@ vansh = {
 
 ---
 
+## 🐍 contribution snake (self-hosted, never breaks)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vansharmaweb/vansharmaweb/output/github-contribution-grid-snake.svg" alt="Snake animation eating your contributions" />
+
+</div>
+
+*(This image only appears once you add the workflow below to your `vansharmaweb/vansharmaweb` repo — it generates the SVG itself, so it doesn't depend on any external server.)*
+
+<details>
+<summary>Setup: <code>.github/workflows/snake.yml</code></summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: vansharmaweb
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push that file to your profile repo, let the Action run once, then the `<img>` tag above will render.
+</details>
+
+---
+
 ## 📫 reach me
 
 <div align="center">
@@ -89,6 +149,7 @@ vansh = {
 [![Gmail](https://img.shields.io/badge/vanshsharmaweb@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vanshsharmaweb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansharmaweb)
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vansharmaweb.github.io)
+[![Reddit](https://img.shields.io/badge/r%2Fgitignoreddevs-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/r/gitignoreddevs)
 
 </div>
 
