@@ -48,21 +48,16 @@ vansh = {
 
 ---
 
-## 🐍 contribution trail
+## 🌌 github activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vansharmaweb/vansharmaweb/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-**consistent commits · late-night debugging · questionable amounts of coffee**
-
 </div>
+
 
 
 ## 🛠️ tech stack
