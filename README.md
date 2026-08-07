@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="./assets/hero.svg" alt="hero" width="820" />
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Vansh+Sharma+%F0%9F%91%8B;Building+playful+web+apps+%F0%9F%92%BB)](https://github.com/vansharmaweb)
