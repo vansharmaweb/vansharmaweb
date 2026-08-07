@@ -17,7 +17,26 @@
 
 ### 👋 Quick intro
 
+```python
+vansh = {
+  "college": "PSIT Kanpur · AKTU",
+  "year": "2nd Year",
+  "focus": ["Full-stack web", "Systems / C++", "Developer tooling"],
+  "belief": "Consistency beats talent when talent doesn't show up",
+}
+```
+
 I build polished web experiences and small developer tools with a focus on thoughtful UX and solid engineering. I’m a 2nd-year B.Tech CSE student (PSIT Kanpur · AKTU) learning systems programming, backend services, and modern frontend.
+
+---
+
+## 🚀 Featured projects
+
+| Project | Short description |
+|---|---|
+| 🌐 [Portfolio Website Generator](https://portgen.gitignored.workers.dev/) | One-click portfolio builder — export Markdown, deploy to GitHub Pages. |
+| 💸 [Student Expense Tracker](https://exptracker.vansharmaweb.workers.dev/) | Budgeting SPA with scoring & real-time health meter. |
+| 🛠️ [UtilityX](https://utilityx.vansharmaweb.workers.dev/) | Pinned app dashboard + admin utilities. |
 
 ---
 
@@ -34,19 +53,9 @@ I build polished web experiences and small developer tools with a focus on thoug
 
 ---
 
-## 🚀 Featured projects
-
-| Project | Short description |
-|---|---|
-| 🌐 [Portfolio Website Generator](https://portgen.gitignored.workers.dev/) | One-click portfolio builder — export Markdown, deploy to GitHub Pages. |
-| 💸 [Student Expense Tracker](https://exptracker.vansharmaweb.workers.dev/) | Budgeting SPA with scoring & real-time health meter. |
-| 🛠️ [UtilityX](https://utilityx.vansharmaweb.workers.dev/) | Pinned app dashboard + admin utilities. |
-
----
-
 ## 🛠️ Tech & tools
 
-<p align="center">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
@@ -54,31 +63,20 @@ I build polished web experiences and small developer tools with a focus on thoug
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
 
-</p>
+</div>
 
 ---
 
 ## 📫 Reach out
 
-<p align="center">
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/vanshsharmaweb@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vanshsharmaweb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansharmaweb)
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vansharmaweb.github.io)
 
-</p>
+</div>
 
 ---
-
-## 🎯 Quick facts
-
-```python
-vansh = {
-  "college": "PSIT Kanpur · AKTU",
-  "year": "2nd Year",
-  "focus": ["Full-stack web", "Systems / C++", "Developer tooling"],
-  "belief": "Consistency beats talent when talent doesn't show up",
-}
-```
 
 <p align="center">⭐ If something here sparked interest, a star on a repo means a lot.</p>
