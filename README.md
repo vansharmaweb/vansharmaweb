@@ -8,6 +8,21 @@
   <img src="https://img.shields.io/badge/NextJS-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="360" alt="coding animation" />
+</p>
+
+<!-- GitHub stats: readme-stats, streaks, top langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=tokyonight" alt="Vansh's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=tokyonight" alt="Vansh's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 </div>
 
 ---
@@ -51,7 +66,7 @@ I like to treat features like small RPG quests — each PR is an XP gain.
 |---|---|
 | 🌐 **[Portfolio Website Generator](https://portgen.gitignored.workers.dev/)** | One-click portfolio builder — export Markdown, deploy to GitHub Pages. |
 | 💸 **[Student Expense Tracker](https://exptracker.vanshonweb.workers.dev/)** | Budgeting SPA with scoring & real-time health meter. |
-| 🛠️ **[UtilityX](https://utilityx.vanshonweb.workers.dev/)** | Pinned app dashboard + admin utilities. |
+| 🛠️ **[UtilityX](https://utilityx.vansharmaweb.workers.dev/)** | Pinned app dashboard + admin utilities. |
 | 💼 **[Portfolio](https://vansharmaweb.github.io)** | Personal site — RPG character-sheet themed. |
 | ⚡ **[CPP Questions](https://github.com/vansharmaweb/CPP_Questions)** | C++ practice problems and solutions. |
 | 🐍 **[HackerRank Python](https://github.com/vansharmaweb/HACKERRANK_Ques_Python)** | Python problem-solving playground. |
