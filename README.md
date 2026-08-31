@@ -61,11 +61,15 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
+  <a href="https://github.com/vansharmaweb">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vansharmaweb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/vansharmaweb">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff" />
+  </a>
 </div>
 
 <div align="center">
