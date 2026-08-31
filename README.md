@@ -61,20 +61,16 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub at a glance
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=radical" alt="Vansh's GitHub stats" />
+</p>
 
-[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/vansharmaweb)
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/vansharmaweb/vansharmaweb?color=58a6ff&style=flat-square" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/repos/vansharmaweb?color=58a6ff&style=flat-square&label=public%20repos" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/coding-enthusiast-blue?style=flat-square" alt="Coding" />
-  <img src="https://img.shields.io/badge/learning-constantly-brightgreen?style=flat-square" alt="Learning" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=radical" alt="Vansh's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
