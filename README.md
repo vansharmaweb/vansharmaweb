@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>👋 Vansh Sharma</h1>
-  <p>
-    <strong>Full-Stack Developer | Systems Engineer | Open Source Enthusiast</strong>
-  </p>
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Vansh+Sharma+%F0%9F%91%8B;Full-Stack+Developer;Systems+%2B+Open+Source+Enthusiast)](https://github.com/vansharmaweb)
+  
   <p>Building elegant web experiences and crafting developer tools with a passion for clean code and thoughtful UX.</p>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vansharmaweb&color=58a6ff&style=flat-square&label=profile+views" />
