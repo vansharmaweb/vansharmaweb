@@ -64,12 +64,7 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
 ## 📈 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=radical" alt="Vansh's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=radical" alt="Vansh's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
