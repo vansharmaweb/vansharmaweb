@@ -41,7 +41,7 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
       <h3>💸 Expense Tracker Pro</h3>
       <p>Smart budgeting app with real-time health metrics & scoring</p>
       <p><strong>Tech:</strong> React, Cloudflare Workers, D3.js</p>
-      <a href="https://exptracker.vansharmaweb.workers.dev/">→ Try it out</a>
+      <a href="https://exptracker.gitignored.workers.dev/">→ Try it out</a>
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
       <h3>🛠️ UtilityX</h3>
       <p>Developer dashboard with pinned utilities & admin tools</p>
       <p><strong>Tech:</strong> Vue.js, FastAPI, SQLite</p>
-      <a href="https://utilityx.vansharmaweb.workers.dev/">→ Try it out</a>
+      <a href="https://utilityx.gitignored.workers.dev/">→ Try it out</a>
     </td>
     <td width="50%">
       <h3>⚡ More Awesome Projects</h3>
