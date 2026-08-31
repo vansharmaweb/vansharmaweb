@@ -61,19 +61,19 @@ I'm a **self-driven developer** focused on creating high-quality software soluti
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://github.com/vansharmaweb">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vansharmaweb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/vansharmaweb">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff" />
-  </a>
+
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/vansharmaweb)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://img.shields.io/github/commit-activity/m/vansharmaweb/vansharmaweb?color=58a6ff&style=flat-square" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/repos/vansharmaweb?color=58a6ff&style=flat-square&label=public%20repos" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/coding-enthusiast-blue?style=flat-square" alt="Coding" />
+  <img src="https://img.shields.io/badge/learning-constantly-brightgreen?style=flat-square" alt="Learning" />
 </div>
 
 ---
