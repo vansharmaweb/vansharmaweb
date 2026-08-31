@@ -1,79 +1,140 @@
 <div align="center">
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Vansh+Sharma+%F0%9F%91%8B;Building+playful+web+apps+%F0%9F%92%BB)](https://github.com/vansharmaweb)
-
-<p>
+  <h1>👋 Vansh Sharma</h1>
+  <p>
+    <strong>Full-Stack Developer | Systems Engineer | Open Source Enthusiast</strong>
+  </p>
+  <p>Building elegant web experiences and crafting developer tools with a passion for clean code and thoughtful UX.</p>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=vansharmaweb&color=58a6ff&style=flat-square&label=profile+views" />
   <img src="https://img.shields.io/github/followers/vansharmaweb?&color=58a6ff&style=flat-square&label=followers" />
-</p>
-
 </div>
 
 ---
 
-### 👋 Quick intro
+## 🎯 About Me
 
 ```python
-vansh = {
-  "college": "PSIT Kanpur · AKTU",
-  "year": "2nd Year",
-  "focus": ["Full-stack web", "Systems / C++", "Developer tooling"],
-  "belief": "Consistency beats talent when talent doesn't show up",
+me = {
+  "education": "PSIT Kanpur · AKTU (2nd Year, B.Tech CSE)",
+  "passions": ["Full-stack web development", "Systems programming", "Developer tools"],
+  "motto": "Consistency beats talent when talent isn't consistent",
+  "currently_learning": "Rust, Advanced System Design",
+  "open_to": "Collaborations, Open Source Contributions, Internships"
 }
 ```
 
-I build polished web experiences and small developer tools with a focus on thoughtful UX and solid engineering. I’m a 2nd-year B.Tech CSE student (PSIT Kanpur · AKTU) learning systems programming, backend services, and modern frontend.
+I'm a **self-driven developer** focused on creating high-quality software solutions. Whether it's building sleek web applications, diving into systems-level programming with C++, or crafting tools that make developers' lives easier — I'm all in. I believe in writing code that's not just functional, but also maintainable, scalable, and a joy to work with.
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Showcase Projects
 
-| Project | Short description |
-|---|---|
-| 🌐 [Portfolio Website Generator](https://portgen.gitignored.workers.dev/) | One-click portfolio builder — export Markdown, deploy to GitHub Pages. |
-| 💸 [Student Expense Tracker](https://exptracker.vansharmaweb.workers.dev/) | Budgeting SPA with scoring & real-time health meter. |
-| 🛠️ [UtilityX](https://utilityx.vansharmaweb.workers.dev/) | Pinned app dashboard + admin utilities. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website Generator</h3>
+      <p>One-click portfolio builder with instant GitHub Pages deployment</p>
+      <p><strong>Tech:</strong> React, Next.js, Markdown, Vercel</p>
+      <a href="https://portgen.gitignored.workers.dev/">→ Try it out</a>
+    </td>
+    <td width="50%">
+      <h3>💸 Expense Tracker Pro</h3>
+      <p>Smart budgeting app with real-time health metrics & scoring</p>
+      <p><strong>Tech:</strong> React, Cloudflare Workers, D3.js</p>
+      <a href="https://exptracker.vansharmaweb.workers.dev/">→ Try it out</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛠️ UtilityX</h3>
+      <p>Developer dashboard with pinned utilities & admin tools</p>
+      <p><strong>Tech:</strong> Vue.js, FastAPI, SQLite</p>
+      <a href="https://utilityx.vansharmaweb.workers.dev/">→ Try it out</a>
+    </td>
+    <td width="50%">
+      <h3>⚡ More Awesome Projects</h3>
+      <p>Explore my full portfolio on GitHub</p>
+      <a href="https://github.com/vansharmaweb?tab=repositories">→ View all projects</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub at a glance
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=radical" alt="Vansh's GitHub stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="45%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=radical" alt="Vansh's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=radical" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
 
 ---
 
-## 🛠️ Tech & tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Platforms
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Reach out
+## 🎓 What I'm Up To
+
+- 🔨 Building full-stack applications with React & Node.js
+- 📚 Learning Rust for systems programming
+- 🚀 Exploring distributed systems & microservices architecture
+- 💡 Contributing to open-source projects
+- 🤝 Mentoring junior developers & sharing knowledge
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/vanshsharmaweb@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vanshsharmaweb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vansharmaweb)
-[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://vansharmaweb.github.io)
+**Reach out for collaborations, opportunities, or just tech talk!**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsharmaweb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansharmaweb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansharmaweb.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vansharmaweb)
 
 </div>
 
 ---
 
-<p align="center">⭐ If something here sparked interest, a star on a repo means a lot.</p>
+<div align="center">
+  <p>
+    <strong>⭐ If you found this interesting, give a star to a repo — it means the world!</strong>
+  </p>
+  <p>
+    <sub>Last updated: 2026 | Made with ❤️ and ☕</sub>
+  </p>
+</div>
