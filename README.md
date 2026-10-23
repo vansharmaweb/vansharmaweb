@@ -184,7 +184,7 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="98%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="98%" />
         </a>
       </td>
       <td width="50%" align="center">
