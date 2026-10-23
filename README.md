@@ -43,11 +43,11 @@
 │  vansh.config.json                                                         │
 ├────────────────────────────────────────────────────────────────────────────┤
 │  • Current Role   : Computer Science & Engineering Undergrad (AI/ML)       │
-│  • Institution    : PSIT Kanpur (Class of 2029) · CGPA: 8.86 / 10.0       │
+│  • Institution    : PSIT Kanpur (Class of 2029) · CGPA: 8.86 / 10.0        │
 │  • Philosophy     : Build with intent, optimize for speed, learn in public │
 │  • Open Source    : Founder @ GitGrindHQ · VajraNet Core Contributor       │
 │  • Production App : CampusConfessions.in (Real-time PWA with AI Safety)    │
-│  • Core Stack     : TypeScript, React, Python, C++, SQL, Node.js, Groq AI │
+│  • Core Stack     : TypeScript, React, Python, C++, SQL, Node.js, Groq AI  │
 │  • Current Focus  : Autonomous AI Agent Workflows & Low-latency Backends   │
 ╰────────────────────────────────────────────────────────────────────────────╯
 ```
