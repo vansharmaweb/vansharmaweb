@@ -45,7 +45,7 @@
 │  • Current Role   : Computer Science & Engineering Undergrad (AI/ML)       │
 │  • Institution    : PSIT Kanpur (Class of 2029) · CGPA: 8.86 / 10.0       │
 │  • Philosophy     : Build with intent, optimize for speed, learn in public │
-│  • Open Source    : Founder @ GitGrindHQ · Creator of Portfolio Generator   │
+│  • Open Source    : Founder @ GitGrindHQ · VajraNet Core Contributor       │
 │  • Production App : CampusConfessions.in (Real-time PWA with AI Safety)    │
 │  • Core Stack     : TypeScript, React, Python, C++, SQL, Node.js, Groq AI │
 │  • Current Focus  : Autonomous AI Agent Workflows & Low-latency Backends   │
@@ -59,8 +59,8 @@
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description & Key Highlights</th>
+      <th width="32%">Project</th>
+      <th width="48%">Description & Key Highlights</th>
       <th width="20%">Tech Stack</th>
     </tr>
   </thead>
@@ -85,8 +85,7 @@
         <code>React</code><br />
         <code>Node.js</code><br />
         <code>MySQL</code><br />
-        <code>Groq AI</code><br />
-        <code>PWA</code>
+        <code>Groq AI</code>
       </td>
     </tr>
     <tr>
@@ -136,64 +135,25 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/vansharmaweb"><strong>🛠️ UtilityX</strong></a>
+        <strong>📂 More Projects</strong>
         <br />
-        <sub><em>Zero-Latency Browser Developer Suite</em></sub>
+        <sub><em>Explore Complete Project Archives</em></sub>
         <br /><br />
-        <a href="https://github.com/vansharmaweb"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://vansharma.is-a.dev/projects/"><img src="https://img.shields.io/badge/All_Projects-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://github.com/vansharmaweb?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </td>
       <td>
-        High-speed, client-side utility suite for developers: JSON validator & collapsible tree visualizer, offline JWT decoder & signature analyzer, Base64 converter, and regex sandbox.
+        Explore 10+ additional open-source systems, developer tools, and architectures:
         <br />
-        • Runs 100% in-memory with Web Workers — zero trackers and zero telemetry.
-      </td>
-      <td>
-        <code>JavaScript</code><br />
-        <code>Web Workers</code><br />
-        <code>HTML5</code><br />
-        <code>CSS3</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vansharmaweb"><strong>🏥 Hospital Management System</strong></a>
+        • <strong>UtilityX:</strong> Zero-latency offline client-side developer utility suite.
         <br />
-        <sub><em>Enterprise Relational Architecture & OOP</em></sub>
-        <br /><br />
-        <a href="https://github.com/vansharmaweb"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </td>
-      <td>
-        Engineered from first principles with normalized 3NF relational schemas and polymorphic class hierarchies.
+        • <strong>Hospital Management System:</strong> 3NF relational database architecture in C++.
         <br />
-        • End-to-end management for patient admissions, doctor rosters, appointments, and billing.
-        <br />
-        • ACID transaction guarantees and indexed query performance.
+        • <strong>VajraNet & AgentForge:</strong> Autonomous multi-agent orchestration experiments.
       </td>
       <td>
-        <code>C++</code><br />
-        <code>SQL</code><br />
-        <code>Relational DB</code><br />
-        <code>OOP</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vansharmaweb/vansharmaweb.github.io"><strong>🌿 Digital Garden & Portfolio</strong></a>
-        <br />
-        <sub><em>Retro-Minimalist Portfolio & Blog</em></sub>
-        <br /><br />
-        <a href="https://vansharma.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-      </td>
-      <td>
-        Personal portfolio inspired by Tania Rascia's retro-minimalist layout. Features 5 interchangeable retro accent themes, dark/light modes, interactive field notes modals, and an offline AI avatar.
-        <br />
-        • Zero heavy frameworks — pure semantic HTML5, modern CSS variables, and vanilla JS.
-      </td>
-      <td>
-        <code>Vanilla JS</code><br />
-        <code>CSS3</code><br />
-        <code>HTML5</code><br />
-        <code>Groq AI</code>
+        <a href="https://vansharma.is-a.dev/projects/"><strong>View All ↗</strong></a><br />
+        <a href="https://github.com/vansharmaweb?tab=repositories"><strong>GitHub ↗</strong></a>
       </td>
     </tr>
   </tbody>
@@ -205,13 +165,13 @@
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Domain | Core Stack (Max 3) |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
-| **Backend & Systems** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
-| **AI / ML & Developer Tools** | ![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square&logo=fastapi&logoColor=white) ![Llama 3](https://img.shields.io/badge/Meta_Llama--3-0467DF?style=flat-square&logo=meta&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend & Systems** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **AI / ML & Tools** | ![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -222,21 +182,14 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="98%" />
         </a>
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansharmaweb&theme=tokyonight&hide_border=true&background=0D1117&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF" alt="Top Languages" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF" alt="Top Languages" width="98%" />
         </a>
       </td>
     </tr>
@@ -250,11 +203,20 @@
 <table>
   <tr>
     <td width="70px" align="center">
-      <img src="https://github.com/GitGrindHQ.png" width="56px" height="56px" style="border-radius: 50%;" alt="GitGrindHQ" />
+      <img src="https://github.com/GitGrindHQ.png" width="54px" height="54px" style="border-radius: 50%;" alt="GitGrindHQ" />
     </td>
     <td>
       <strong><a href="https://github.com/GitGrindHQ">GitGrindHQ</a></strong> &mdash; <em>Founder & Maintainer</em><br />
       Building open-source developer productivity tools, competitive programming sync automations, and habit trackers designed to keep developers consistent.
+    </td>
+  </tr>
+  <tr>
+    <td width="70px" align="center">
+      <img src="https://api.iconify.design/lucide:network.svg?color=%23F59E0B" width="50px" height="50px" alt="VajraNet" />
+    </td>
+    <td>
+      <strong><a href="https://github.com/vajranet">VajraNet</a></strong> &mdash; <em>Core Contributor & AI Architect</em><br />
+      Exploring intelligent connected systems, autonomous multi-agent task execution, and robust backend architectures.
     </td>
   </tr>
 </table>
