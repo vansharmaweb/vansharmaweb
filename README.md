@@ -14,9 +14,6 @@
 </p>
 
 <p>
-  <a href="https://vansharma.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://github.com/vansharmaweb?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
@@ -25,6 +22,13 @@
   </a>
   <a href="mailto:vansharmaweb@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vansharmaweb&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/vansharmaweb?tab=followers">
+    <img src="https://img.shields.io/github/followers/vansharmaweb?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717" alt="GitHub followers" />
   </a>
 </p>
 
@@ -72,8 +76,6 @@ mindset: "Learn the fundamentals. Build real things. Keep improving."
 
 ## 🚀 Featured Projects
 
-These are some of the projects I'm working on and learning from.
-
 ### 🛡️ 1. VajraNet
 
 **Communication when conventional networks aren't available.**
@@ -81,8 +83,8 @@ These are some of the projects I'm working on and learning from.
 VajraNet explores resilient communication for situations where normal connectivity may be unavailable, including disaster scenarios.
 
 * 📡 Explores alternative communication and message-relaying approaches.
-* 🔄 Designed around connectivity challenges and communication continuity.
-* 🧪 Focused on exploring practical approaches to resilient communication.
+* 🔄 Focuses on connectivity challenges and communication continuity.
+* 🧪 Investigates practical approaches to resilient communication.
 
 **Technologies:** Add the exact technologies used in your current implementation.
 
@@ -96,12 +98,12 @@ VajraNet explores resilient communication for situations where normal connectivi
 
 **An anonymous social platform for campus communities.**
 
-CampusConfessions is a project focused on anonymous expression and community interaction, with features designed around sharing and discovering campus experiences.
+CampusConfessions focuses on anonymous expression and community interaction, with features designed around sharing and discovering campus experiences.
 
 * 📝 Anonymous posts and campus discussions.
 * 🔥 Community feeds and trending topics.
 * 🗳️ Interactive content, including polls.
-* 🔔 Exploring real-time interactions and notifications.
+* 🔔 Real-time interactions and notifications.
 
 **Technologies:** Python · Flask · PostgreSQL · Supabase · Redis · AI integrations
 
@@ -122,7 +124,7 @@ An open-source project exploring how developers can create personalized portfoli
 
 * 🎨 Multiple portfolio layouts and customization options.
 * 👀 Preview-driven editing.
-* 📦 Exploring convenient export and deployment workflows.
+* 📦 Portfolio export and deployment workflows.
 
 **Technologies:** React · TypeScript · Vite · Tailwind CSS
 
@@ -138,7 +140,7 @@ An open-source project exploring how developers can create personalized portfoli
 
 GitGrind explores tools and automation that connect competitive programming practice with a developer's GitHub workflow.
 
-* 🔄 Exploring automated organization of coding solutions.
+* 🔄 Automated organization of coding solutions.
 * 📂 Structured repositories for easier navigation.
 * 📈 Ideas for tracking consistency and coding progress.
 
@@ -164,8 +166,6 @@ I'm also exploring projects involving utility tools, management systems, AI-powe
 ---
 
 ## 🧰 Tech Stack
-
-The technologies I use and explore while building projects.
 
 ### Languages
 
@@ -254,9 +254,6 @@ I'm always happy to connect with fellow developers, learn from other builders, c
 
 <div align="center">
 
-<a href="https://vansharma.is-a.dev">
-  <img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-</a>
 <a href="https://linkedin.com/in/vansharmaweb">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
@@ -265,6 +262,12 @@ I'm always happy to connect with fellow developers, learn from other builders, c
 </a>
 <a href="mailto:vansharmaweb@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+<a href="https://vansharma.is-a.dev">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
 </a>
 
 <br /><br />
