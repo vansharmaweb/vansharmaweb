@@ -8,6 +8,9 @@
   <p align="center">
     <strong>Software Engineer &middot; Open-Source Creator &middot; Digital Gardener</strong>
   </p>
+  <p align="center">
+    I build production-ready full-stack products and AI-assisted systems with a focus on low-latency backends, thoughtful UX, and developer tooling.
+  </p>
 
   <!-- Quick Badges / Links -->
   <p align="center">
@@ -27,7 +30,7 @@
 
   <!-- Status Pill -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Actively_seeking_Summer_2026_SWE_Internships-10B981?style=flat-square&logo=google-calendar&logoColor=white" alt="Internship Status" />
+    <img src="https://img.shields.io/badge/Status-Open_to_SWE_Internships_%26_Collaborations-10B981?style=flat-square&logo=google-calendar&logoColor=white" alt="Current Status" />
     <img src="https://img.shields.io/badge/CGPA-8.86_%2F_10.0-6366F1?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
     <img src="https://img.shields.io/badge/Focus-Full--Stack_%7C_Systems_%7C_AI-F59E0B?style=flat-square" alt="Focus" />
   </p>
@@ -56,108 +59,37 @@
 
 ### 🚀 Featured Engineering Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="32%">Project</th>
-      <th width="48%">Description & Key Highlights</th>
-      <th width="20%">Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://campusconfessions.in"><strong>🛡️ CampusConfessions</strong></a>
-        <br />
-        <sub><em>Live Production Anonymous Social PWA</em></sub>
-        <br /><br />
-        <a href="https://campusconfessions.in"><img src="https://img.shields.io/badge/Live_Site-FF4500?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-        <a href="https://github.com/vansharmaweb"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </td>
-      <td>
-        Anonymous college social platform featuring real-time feeds, voice posts, interactive polls, and automated push notifications.
-        <br />
-        • Sub-200ms automated content moderation pipeline using <strong>Groq Llama-3.3</strong>.
-        <br />
-        • High-concurrency relational backend with zero identifying telemetry storage.
-      </td>
-      <td>
-        <code>React</code><br />
-        <code>Node.js</code><br />
-        <code>MySQL</code><br />
-        <code>Groq AI</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/vansharmaweb/Portfolio-Generator"><strong>⚡ Portfolio Generator</strong></a>
-        <br />
-        <sub><em>AI-Powered SaaS Portfolio Builder</em></sub>
-        <br /><br />
-        <a href="https://vansharma.is-a.dev"><img src="https://img.shields.io/badge/Demo-10B981?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/vansharmaweb/Portfolio-Generator"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </td>
-      <td>
-        Open-source SaaS tool converting raw developer data (skills, GitHub repos, milestones) into responsive, production-ready static portfolios.
-        <br />
-        • Multi-template dynamic layout engine with live state preview.
-        <br />
-        • One-click export to standalone HTML/CSS/ZIP and instant GitHub Pages deployment.
-      </td>
-      <td>
-        <code>React 19</code><br />
-        <code>Vite</code><br />
-        <code>Tailwind v4</code><br />
-        <code>TypeScript</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/GitGrindHQ/gitgrind"><strong>🔥 GitGrind</strong></a>
-        <br />
-        <sub><em>Developer Habit Tracker & Sync Extension</em></sub>
-        <br /><br />
-        <a href="https://github.com/GitGrindHQ/gitgrind"><img src="https://img.shields.io/badge/Organization-GitGrindHQ-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-      </td>
-      <td>
-        Developer productivity extension and automation pipeline bridging competitive programming with real-world GitHub profiles.
-        <br />
-        • Auto-syncs accepted LeetCode / CP solutions into structured, categorized Git repos.
-        <br />
-        • Generates AI solution breakdowns, complexity analyses, and streak badges.
-      </td>
-      <td>
-        <code>Python</code><br />
-        <code>Chrome Ext</code><br />
-        <code>GitHub Actions</code><br />
-        <code>REST API</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>📂 More Projects</strong>
-        <br />
-        <sub><em>Explore Complete Project Archives</em></sub>
-        <br /><br />
-        <a href="https://vansharma.is-a.dev/projects/"><img src="https://img.shields.io/badge/All_Projects-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-        <a href="https://github.com/vansharmaweb?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </td>
-      <td>
-        Explore 10+ additional open-source systems, developer tools, and architectures:
-        <br />
-        • <strong>UtilityX:</strong> Zero-latency offline client-side developer utility suite.
-        <br />
-        • <strong>Hospital Management System:</strong> 3NF relational database architecture in C++.
-        <br />
-        • <strong>VajraNet & AgentForge:</strong> Autonomous multi-agent orchestration experiments.
-      </td>
-      <td>
-        <a href="https://vansharma.is-a.dev/projects/"><strong>View All ↗</strong></a><br />
-        <a href="https://github.com/vansharmaweb?tab=repositories"><strong>GitHub ↗</strong></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### 🛡️ [CampusConfessions](https://campusconfessions.in)
+Live production anonymous social PWA for college communities with real-time feeds, voice posts, polls, and push notifications.
+
+- Sub-200ms automated content moderation pipeline using **Groq Llama-3.3**
+- High-concurrency relational backend with zero identifying telemetry storage
+- **Stack:** `React` · `Node.js` · `MySQL` · `Groq AI`
+
+[Live Site](https://campusconfessions.in) · [More Project Context](https://vansharma.is-a.dev/projects/)
+
+#### ⚡ [Portfolio Generator](https://github.com/vansharmaweb/Portfolio-Generator)
+Open-source SaaS portfolio builder that converts developer data into responsive, production-ready portfolios.
+
+- Multi-template layout engine with live state preview
+- One-click export to standalone HTML/CSS/ZIP and GitHub Pages deployment
+- **Stack:** `React 19` · `Vite` · `Tailwind v4` · `TypeScript`
+
+[View Repository](https://github.com/vansharmaweb/Portfolio-Generator) · [Projects Page](https://vansharma.is-a.dev/projects/)
+
+#### 🔥 [GitGrind](https://github.com/GitGrindHQ/gitgrind)
+Developer productivity extension and automation pipeline bridging competitive programming with real-world GitHub profiles.
+
+- Auto-syncs accepted LeetCode/CP solutions into structured, categorized Git repos
+- Generates AI solution breakdowns, complexity analyses, and streak badges
+- **Stack:** `Python` · `Chrome Extension` · `GitHub Actions` · `REST API`
+
+[Explore GitGrind](https://github.com/GitGrindHQ/gitgrind) · [GitGrindHQ Org](https://github.com/GitGrindHQ)
+
+#### 📂 More Projects
+Explore additional open-source systems and experiments including **UtilityX**, **Hospital Management System**, **VajraNet**, and **AgentForge**.
+
+[View All Projects](https://vansharma.is-a.dev/projects/) · [GitHub Repositories](https://github.com/vansharmaweb?tab=repositories)
 
 ---
 
@@ -165,13 +97,13 @@
 
 <div align="center">
 
-| Domain | Core Stack (Max 3) |
+| Domain | Tools I Reach For |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Backend & Systems** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **AI / ML & Tools** | ![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Languages** | `TypeScript` · `Python` · `C++` |
+| **Frontend** | `React` · `Tailwind CSS` · `Vite` |
+| **Backend & APIs** | `Node.js` · `Express` · `Flask` |
+| **Data & Cloud** | `PostgreSQL` · `MySQL` · `Supabase` |
+| **AI & Dev Workflow** | `Groq` · `GitHub Actions` · `Linux` |
 
 </div>
 
@@ -180,20 +112,13 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="98%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/vansharmaweb">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF" alt="Top Languages" width="98%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/vansharmaweb">
+    <img src="https://github-readme-stats.vercel.app/api?username=vansharmaweb&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF&icon_color=F59E0B&count_private=true" alt="Vansh's GitHub Stats" width="100%" />
+  </a>
+  <br />
+  <a href="https://github.com/vansharmaweb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansharmaweb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=9CA3AF" alt="Top Languages" width="100%" />
+  </a>
 </div>
 
 ---
@@ -234,7 +159,7 @@ Whether you have an internship opportunity, want to collaborate on an open-sourc
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vansharmaweb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-/in/vansharmaweb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vansh" />
+    <img src="https://img.shields.io/badge/LinkedIn-vansharmaweb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vansh" />
   </a>
   &nbsp;
   <a href="https://vansharma.is-a.dev" target="_blank">
