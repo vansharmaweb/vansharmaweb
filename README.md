@@ -14,18 +14,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/vansharmaweb?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://linkedin.com/in/vansharmaweb">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vansharmaweb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p>
   <img src="https://komarev.com/ghpvc/?username=vansharmaweb&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/vansharmaweb?tab=followers">
     <img src="https://img.shields.io/github/followers/vansharmaweb?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717" alt="GitHub followers" />
