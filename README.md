@@ -155,36 +155,22 @@ I'm also exploring projects involving utility tools, management systems, AI-powe
 
 ## 🧰 Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,sql" alt="Programming languages" />
-</p>
+| Category              | Technologies                                     |
+| :-------------------- | :----------------------------------------------- |
+| **Languages**         | Python · C++ · C · TypeScript · JavaScript · SQL |
+| **Frontend**          | HTML · CSS · React · Vite · Tailwind CSS         |
+| **Backend & APIs**    | Flask · Node.js · Express                        |
+| **Databases & Cloud** | PostgreSQL · MySQL · Supabase · Redis            |
+| **AI & Automation**   | Groq · LLM APIs · GitHub Actions                 |
+| **Tools & Platforms** | Git · GitHub · VS Code · Docker · Postman        |
 
-### Frontend Development
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,typescript,javascript,react,vite,tailwind,flask,nodejs,postgres,mysql,supabase,redis,git,github,docker&perline=9" alt="Tech stack icons" />
 
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,postgres,mysql,supabase,redis" alt="Backend technologies and databases" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" alt="Development tools" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/LLM%20APIs-Exploring-8B5CF6?style=for-the-badge" alt="LLM APIs" />
-  <img src="https://img.shields.io/badge/Workflow%20Automation-Exploring-F59E0B?style=for-the-badge" alt="Workflow automation" />
-</p>
+</div>
 
 ---
 
@@ -203,9 +189,6 @@ I'm also exploring projects involving utility tools, management systems, AI-powe
 
 <img src="https://streak-stats.demolab.com?user=vansharmaweb&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub contribution streak" width="70%" />
 
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=vansharmaweb&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" width="100%" />
 
 </div>
 
@@ -252,13 +235,9 @@ I'm always happy to connect with fellow developers, learn from other builders, c
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br /><br />
-
 <a href="https://vansharma.is-a.dev">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
 </a>
-
-<br /><br />
 
 **Build things. Learn constantly. Stay curious.**
 
