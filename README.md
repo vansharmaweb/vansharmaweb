@@ -133,11 +133,7 @@ I’m happy to connect with fellow developers, collaborate on interesting projec
 <a href="mailto:vansharmaweb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://vansharma.is-a.dev"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 
-<br /><br />
-
 <strong>Build things. Learn constantly. Stay curious.</strong>
-
-<br />
 
 <sub>Made with ☕ and plenty of debugging by Vansh Sharma.</sub>
 
